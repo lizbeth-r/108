@@ -57,3 +57,5 @@ export const catalog = [
         "_id": "8"
     }
 ];
+
+export const categories = ['Fruit', 'Vegetables', 'Merchandise', 'Dairy & Eggs', 'Beverages'];
